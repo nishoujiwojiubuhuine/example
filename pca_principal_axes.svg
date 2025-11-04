@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600">
+<defs><marker id="arrow-1f77b4" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1f77b4" /></marker><marker id="arrow-ff7f0e" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#ff7f0e" /></marker></defs>
+<rect width="100%" height="100%" fill="#ffffff" />
+<g stroke="#cccccc" stroke-dasharray="4,4">
+<line x1="50.00" y1="50" x2="50.00" y2="550" />
+<line x1="50" y1="50.00" x2="550" y2="50.00" />
+<line x1="150.00" y1="50" x2="150.00" y2="550" />
+<line x1="50" y1="150.00" x2="550" y2="150.00" />
+<line x1="250.00" y1="50" x2="250.00" y2="550" />
+<line x1="50" y1="250.00" x2="550" y2="250.00" />
+<line x1="350.00" y1="50" x2="350.00" y2="550" />
+<line x1="50" y1="350.00" x2="550" y2="350.00" />
+<line x1="450.00" y1="50" x2="450.00" y2="550" />
+<line x1="50" y1="450.00" x2="550" y2="450.00" />
+<line x1="550.00" y1="50" x2="550.00" y2="550" />
+<line x1="50" y1="550.00" x2="550" y2="550.00" />
+</g>
+<g fill="#1f77b4" stroke="#0d3c61" stroke-width="1">
+<circle cx="326.67" cy="320.84" r="5" />
+<circle cx="50.00" cy="550.00" r="5" />
+<circle cx="285.17" cy="253.44" r="5" />
+<circle cx="243.67" cy="347.80" r="5" />
+<circle cx="409.67" cy="239.96" r="5" />
+<circle cx="299.00" cy="280.40" r="5" />
+<circle cx="257.50" cy="428.68" r="5" />
+<circle cx="119.17" cy="496.08" r="5" />
+<circle cx="188.34" cy="428.68" r="5" />
+<circle cx="133.00" cy="523.04" r="5" />
+</g>
+<g stroke="#000000" stroke-width="2">
+<line x1="225.22" y1="380.89" x2="237.22" y2="392.89" />
+<line x1="225.22" y1="392.89" x2="237.22" y2="380.89" />
+</g>
+<line x1="231.22" y1="386.89" x2="550.00" y2="50.00" stroke="#1f77b4" stroke-width="3" marker-end="url(#arrow-1f77b4)" />
+<text x="550.00" y="40.00" fill="#1f77b4" font-size="18" text-anchor="middle">PC1</text>
+<line x1="231.22" y1="386.89" x2="163.62" y2="326.16" stroke="#ff7f0e" stroke-width="3" marker-end="url(#arrow-ff7f0e)" />
+<text x="163.62" y="316.16" fill="#ff7f0e" font-size="18" text-anchor="middle">PC2</text>
+</svg>
